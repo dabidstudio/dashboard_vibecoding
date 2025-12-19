@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/{시트id}/gviz/tq?&sheet={시트명}tq=s
 
 ### 구글시트 데이터 활용 샘플
 ```md
-https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select%20*)1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM[/gviz/tq?&sheet=가계부&tq=select *
+https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select *
 ```
 → 이걸 브라우저에 붙여서 실행해보면 구글시트 데이터가 다운로드됨
 
