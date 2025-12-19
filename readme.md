@@ -19,11 +19,3 @@ https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno
 
 
 
-
-
-### 데이터 출처
-
-1. 서울시 행정구 공간정보 : https://github.com/southkorea/seoul-maps/tree/master
-2. 가계부 데이터 : 제미나이 생성
-3. 서울시 연령별 데이터 : https://jumin.mois.go.kr/#
-4. 서울 한파쉼터 데이터 : https://data.seoul.go.kr/dataList/OA-21066/S/1/datasetView.do
