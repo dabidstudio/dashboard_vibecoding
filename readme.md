@@ -1,5 +1,5 @@
 
-
+### 구글시트 연계 프롬프트
 ```md
 https://docs.google.com/spreadsheets/d/1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM/edit?usp=sharing
 
@@ -10,7 +10,8 @@ https://docs.google.com/spreadsheets/d/{시트id}/gviz/tq?&sheet={시트명}tq=s
 ```
 
 
-예시
-
-[https://docs.google.com/spreadsheets/d/](https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select%20*)1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM[/gviz/tq?&sheet=가계부&tq=select *](https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select%20*)
+### 구글시트 API 예시
+```md
+https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select%20*)1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM[/gviz/tq?&sheet=가계부&tq=select *
+```
 → 이걸 브라우저에 붙여서 실행해보면 JSON이 나옴
