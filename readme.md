@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/{시트id}/gviz/tq?&sheet={시트명}tq=s
 ```
 
 
-### 구글시트 API 예시
+### 구글시트 데이터 활용 샘플
 ```md
 https://docs.google.com/spreadsheets/d/1QL22r4yJhefK8UaPh_uFvlGGNcBpt4ZptK7nbuno3hI/gviz/tq?tq=select%20*)1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM[/gviz/tq?&sheet=가계부&tq=select *
 ```
