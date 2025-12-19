@@ -1,5 +1,8 @@
 
 ### 구글시트 연계 프롬프트
+
+※ 구글시트 링크가 있는 모든 사용자가 볼 수 있도록 공개 설정이 되어 있어야 함
+
 ```md
 https://docs.google.com/spreadsheets/d/1Q656QCrACV5c2_bg0wu-qqszmJh6jtbuiPv95DRKsWM/edit?usp=sharing
 
